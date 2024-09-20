@@ -47,3 +47,13 @@ PyTorch is a Python package that provides tensor computation (like NumPy) with s
 		</gradio-lite>
 	</body>
 </html>
+<html>
+	<body>
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/4.41.0/gradio.js"
+></script>
+
+<gradio-app src="https://cherokee.nicedata.eu.org"></gradio-app>
+	</body>
+</html>
