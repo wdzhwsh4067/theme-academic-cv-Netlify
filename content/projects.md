@@ -21,3 +21,4 @@ sections:
       fill_image: false
       columns: 3
 ---
+<iframe src="https://cherokee.nicedata.eu.org/" width="600" height="400"></iframe>
