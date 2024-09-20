@@ -15,4 +15,4 @@ design:
 PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
 
 <!--more-->
-<iframe src="https://cherokee.nicedata.eu.org/" width="600" height="400"></iframe>
+<iframe src="https://cherokee.nicedata.eu.org/" style="width: 100%; height: 100%;" frameborder="0"></iframe>
